@@ -1,2 +1,10 @@
-# SimpleTelegramBot
-bot for Telegram
+## SimpleTelegramBot
+
+### Описание
+Бот для Telegram, реализующий простейшую игру "камень-ножницы-бумага" на чистой java с библиотекой telegram api.
+
+### Особенности:
+Для корректной работы бот должен быть добавлен в группу и включен inline mode у бота
+
+#### Название бота
+(simpleBot) @simpleSecret_bot
